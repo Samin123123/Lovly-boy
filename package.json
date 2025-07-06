@@ -1,0 +1,25 @@
+{
+  "name": "samin-x1-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A powerful WhatsApp bot named Samin-X1 built with Node.js and Twilio.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "twilio",
+    "nodejs",
+    "samin-x1"
+  ],
+  "author": "Your Name Here (or Samin-X1 Creator)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "twilio": "^5.2.0"
+  }
+}
